@@ -25,5 +25,5 @@
 
 ##### É um grafo cujos vértices podem ser divididos em dois conjuntos disjuntos. No nosso caso eles foram divididos entre `filmes` e `usuários`.
 
-?[alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Biclique_K_3_3.svg/300px-Biclique_K_3_3.svg.png "imagem")
+![Gráfico Bipartido](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Biclique_K_3_3.svg/300px-Biclique_K_3_3.svg.png)
 
