@@ -2,6 +2,8 @@
 
 #### Material referente ao trabalho prático da matéria `Teoria dos Grafos 2020/2`
 
+* [Link para vídeo no YouTube](https://youtu.be/BuXrpQsd9bA)
+
 
 ## **MEMBROS:**
 
