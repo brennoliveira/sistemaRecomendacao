@@ -31,6 +31,6 @@
 
 ### Filtragem colaborativa:
 
-##### É um método utilizado para fazer previsões automáticas sobre o interesse de um usuário pela preferência de outros usuários
+##### É um método utilizado para fazer previsões automáticas sobre o interesse de um usuário pela preferência de outros usuários.
 
 ![Filtragem Colaborativa](https://www.researchgate.net/profile/Vitor_Rolim2/publication/320993342/figure/fig2/AS:559320966365184@1510363918899/Figura-2-Exemplo-de-um-sistema-de-recomendacao-com-filtragem-colaborativa.png)
